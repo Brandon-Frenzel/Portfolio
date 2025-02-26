@@ -436,12 +436,14 @@ section .container {
 }
 .skills .progress-bar-wrap {
   background: rgba(255, 255, 255, 0.2);
+  border-radius: 2px;
 }
 .skills .progress-bar {
   width: 1px;
   height: 5px;
   transition: 0.9s;
-  background-color: #AAAAAA;
+  background-color: #a1a1a1;
+  border-radius: 2px;
 }
 
 /*--------------------------------------------------------------
